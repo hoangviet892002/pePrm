@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/nameStudent"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/addressStudent"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/genderStudent"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/dateStudent"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/majorStudent"
+        android:layout_width="match_parent"
+        android:layout_height="47dp"
+        android:text="TextView" />
+</LinearLayout>
